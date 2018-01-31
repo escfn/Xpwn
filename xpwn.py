@@ -1,3 +1,6 @@
+#Author: soC
+#Date: 01.01.18
+
 from splinter import *
 import time
 import random
